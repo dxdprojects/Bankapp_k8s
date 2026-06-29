@@ -176,42 +176,4 @@ terraform apply
 
 The Setup-RBAC.md file contains Kubernetes RBAC configuration for creating a service account, role, role binding, and cluster role binding. This is especially useful when integrating Jenkins or another CI/CD tool with Kubernetes.
 
-## DevOps Flow Demonstrated
 
-This project highlights the following DevOps practices:
-
-1. Version control with Git
-2. Application packaging with Maven
-3. Containerization with Docker
-4. Orchestration with Kubernetes
-5. Infrastructure provisioning with Terraform
-6. Cloud deployment on AWS EKS
-7. RBAC and security configuration for automation
-
-## Blog-Worthy Story Outline
-
-If you plan to write about this project on Hashnode, Dev.to, or Medium, this project gives you a strong narrative:
-
-- Why I built a banking app as a DevOps project
-- How I moved from a local Java application to a containerized service
-- How Kubernetes helped manage the database and application together
-- How Terraform made the AWS infrastructure reproducible
-- What I learned about CI/CD, security, and cloud-native deployment
-
-A good article structure could be:
-
-1. Introduction: why this project matters
-2. Architecture overview
-3. Building the application
-4. Dockerizing the app
-5. Deploying on Kubernetes
-6. Provisioning EKS with Terraform
-7. Lessons learned and next steps
-
-## Contributing
-
-Contributions are welcome. If you improve the application, deployment manifests, or Terraform configuration, feel free to open a pull request.
-
-## License
-
-This project is open for learning and experimentation.
